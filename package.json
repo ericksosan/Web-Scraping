@@ -1,0 +1,17 @@
+{
+	"name": "web_scraping",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "./extract_cricket_world_cups_list.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Erick Sosa",
+	"license": "ISC",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"node-fetch": "^3.2.10"
+	}
+}
